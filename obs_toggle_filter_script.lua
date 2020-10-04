@@ -23,7 +23,7 @@
 obs = obslua
 settings = {}
 --Change this variable to support more than one change
-totalSetting = 2
+totalSetting = 1
 
 function script_description()
 	return [[
